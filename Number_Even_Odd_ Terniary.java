@@ -12,6 +12,6 @@ public class     Number_Even_Odd_ Terniary{
         String evenOdd = (num % 2 == 0) ? "even" : "odd";
 
         System.out.println(num + " is " + evenOdd);
-
+// make not eto comment
     }
 }
